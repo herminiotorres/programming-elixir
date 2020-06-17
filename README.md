@@ -9,9 +9,12 @@
 
 ## references
 
+4. Chapter
+
 - [PCRE - Perl Compatible Regular Expressions](http://www.pcre.org/)
 - [ISO 8601 - Date and Time Format](https://www.iso.org/iso-8601-date-and-time-format.html)
 - [Calendar is a datetime library for Elixir](https://github.com/lau/calendar)
+
 - [FizzBuzz Test](http://wiki.c2.com/?FizzBuzzTest)
 - [case, cond, and if](https://elixir-lang.org/getting-started/case-cond-and-if.html)
 - [Erlang - is_atom](http://erlang.org/doc/man/erlang.html#is_atom-1)
