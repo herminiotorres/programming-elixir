@@ -15,7 +15,12 @@
 - [ISO 8601 - Date and Time Format](https://www.iso.org/iso-8601-date-and-time-format.html)
 - [Calendar is a datetime library for Elixir](https://github.com/lau/calendar)
 
+5. Chapter
+
 - [FizzBuzz Test](http://wiki.c2.com/?FizzBuzzTest)
+
+6. Chapter
+
 - [case, cond, and if](https://elixir-lang.org/getting-started/case-cond-and-if.html)
 - [Erlang - is_atom](http://erlang.org/doc/man/erlang.html#is_atom-1)
 - [Erlang - IO.format](http://erlang.org/doc/man/io.html#format-2)
@@ -23,6 +28,9 @@
 - [Erlang - Docs](http://erlang.org/doc/)
 - [Erlang - Docs - Alternative](https://erldocs.com/)
 - [Erlang/Elixir Syntax: A Crash Course](https://elixir-lang.org/crash-course.html)
+
+7. Chapter
+
 - [Elixir - Keyword](https://hexdocs.pm/elixir/Keyword.html)
 - [Elixir - Enum](https://hexdocs.pm/elixir/Enum.html)
 - [Elixir - Map](https://hexdocs.pm/elixir/Map.html)
